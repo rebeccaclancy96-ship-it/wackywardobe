@@ -1,0 +1,26 @@
+{
+  "description": "Welcome to Wacky Wardrobe, a colourful world of dress-up fun, pet buddies, and playful mini-games!\n\nCreate your character, pick a pet pal, and mix and match outfits. Earn coins through play to discover more looks, pets, and places.\n\nPLAY YOUR WAY\n• Dress up your character and pet in cheerful outfits.\n• Spend interactive Buddy Time with your pet.\n• Try Star Catch, matching games, and Number Buddies counting challenges.\n• Discover special pet friends, including unicorns and turtles.\n• Collect daily gifts and unlock new combinations.\n\nStart playing without creating an account. Optional coin purchases are available in the grown-ups section; coins can also be earned through play.",
+  "keywords": "dress up,pets,kids,mini games,counting,outfits,matching,unicorn,buddy",
+  "whatsNew": "Meet special pet buddies and enjoy colourful counting challenges in Number Buddies, plus interactive Buddy Time and playful outfits.",
+  "privacyPolicyUrl": "https://staticfiles.net/wfT_0q2yUVaf2jFDgqweP87TWmI04hkyUR5JdD4sSDw/p/n/privacy.html",
+  "supportUrl": "https://staticfiles.net/wfT_0q2yUVaf2jFDgqweP87TWmI04hkyUR5JdD4sSDw/p/n/support.html",
+  "ageRating": { "parentalControls": true },
+  "regulatedMedicalDevice": { "declared": false },
+  "primaryCategory": "GAMES",
+  "copyright": "2026 OFF THE GRID GAMES PTY LTD",
+  "usesThirdPartyContent": false,
+  "reviewContact": {
+    "firstName": "Rebecca",
+    "lastName": "Clancy",
+    "email": "rebeccaclancy96@gmail.com",
+    "phone": "+61439373761",
+    "demoAccountRequired": false,
+    "notes": "No sign-in is required. Complete the two-step character and pet selection to enter the app. Coins can be earned through mini-games. Optional coin purchases are behind the grown-ups arithmetic gate."
+  },
+  "screenshots": [
+    { "url": "https://iosbuilds.composerapi.com/screenshots/user_3M3SvRhJfncUdPM7E84ZHqFOhkC/IPHONE_69/b5d1e18b-8dab-4ef2-b709-624315a5bc5b.png", "deviceType": "IPHONE_69" },
+    { "url": "https://iosbuilds.composerapi.com/screenshots/user_3M3SvRhJfncUdPM7E84ZHqFOhkC/IPAD_PRO_3GEN_129/01569e32-6240-40ad-9249-9d68fedd37c9.png", "deviceType": "IPAD_PRO_3GEN_129" }
+  ],
+  "pricing": { "free": true, "baseTerritory": "USA" },
+  "availability": { "allTerritories": true, "available": true }
+}

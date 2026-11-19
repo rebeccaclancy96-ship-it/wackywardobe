@@ -1,0 +1,14 @@
+project:
+  name: "Wacky Wardrobe"
+  output_dir: "output-duo-inner"
+  device: "iPhone Duo - Night Sky - Inner Open Landscape"
+  output_size: "iPhoneDuo_Inner_Landscape"
+screenshots:
+  02_duo_inner:
+    template: "wacky_duo_inner.html"
+    variables:
+      headline_top: "Open up."
+      headline_bottom: "Play big!"
+      subtitle: "Your favourite outfits and pet pals, with room to explore."
+    assets:
+      app_screenshot: "duo-inner.png"

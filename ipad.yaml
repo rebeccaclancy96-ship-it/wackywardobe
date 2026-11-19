@@ -1,0 +1,25 @@
+project:
+  name: "Wacky Wardrobe"
+  output_dir: "output-ipad"
+  device: "iPad Pro 13 - M4 - Space Gray - Portrait"
+  output_size: "iPadPro12_9"
+screenshots:
+  01_ipad_hero:
+    template: "marketing_ipad_hero.html"
+    variables:
+      headline_top: "Dress up. Buddy up."
+      headline_bottom: "Get wacky!"
+      subtitle: "Silly outfits, adorable pets & playful mini-games."
+    assets:
+      app_screenshot: "app-screen-ipad.html"
+      kid_dino: "kid_girl_dino.png"
+      kid_casual: "kid_girl_casual.png"
+      kid_overalls: "kid_girl_overalls.png"
+      kid_pajamas: "kid_girl_pajamas.png"
+      kid_rainbow: "kid_girl_rainbow.png"
+      kid_shark: "kid_girl_shark.png"
+      kid_banana: "kid_girl_banana.png"
+      kid_unicorn: "kid_girl_unicorn.png"
+      pet_dino: "pet_puppy_dino.png"
+      status_light: "status-bar-ipad-light.png"
+      status_dark: "status-bar-ipad-dark.png"

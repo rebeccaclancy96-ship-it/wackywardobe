@@ -1,0 +1,11 @@
+{
+  "authorized": true,
+  "version": "1.0.1",
+  "buildNumber": "3",
+  "bundleId": "com.vibecodeapp.app-4thf0g3bzcmz",
+  "appId": "6835691626",
+  "versionId": "312afcc1-d50a-4c72-8204-f6a306ff4cfb",
+  "localizationId": "1c9030b5-fc51-4c8a-a4a7-c140907f8162",
+  "coinProductIds": ["6835692297", "6835692352", "6835692354"],
+  "instructions": "User explicitly authorized submission of all three consumable coin packs and all finished updates. Build includes parent-gated native rating prompt. Keep coins consumable, no premium entitlement or subscriptions. Reuse resumed cloud build ID, do not rebuild. Follow publish preflight/start/status/submit workflow; ensure all three coin packs are actually included in review submission, not only app version. Existing iPhone gameplay video and screenshots and Duo screenshots are already uploaded to 1.0.1 draft. iPad promo screenshots are generated under ipad-promo-20261118/output-ipad; upload to draft and use refreshed screenshot URLs as needed. Header/search mockups are promotional only and must not be uploaded as in-app screenshots. Update whatsNew for rating feature and optional coin packs. Apple business readiness verified ready on 2026-11-18. Do not assume live purchase has been tested. Legal pages refreshed, existing privacy URL already appears in Settings."
+}

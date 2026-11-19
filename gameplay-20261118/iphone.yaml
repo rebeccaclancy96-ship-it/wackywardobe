@@ -1,0 +1,30 @@
+project:
+  name: "Wacky Wardrobe"
+  output_dir: "output-iphone"
+  device: "iPhone 16 Pro Max - Black Titanium - Portrait"
+  output_size: "iPhone6_9"
+screenshots:
+  01_dress_up:
+    template: "marketing_iphone_hero.html"
+    variables:
+      headline_top: "Big smiles."
+      headline_bottom: "Wacky styles!"
+      subtitle: "Mix, match and make it yours."
+    assets:
+      app_screenshot: "01-dress-up.png"
+  02_buddy_time:
+    template: "marketing_iphone_hero.html"
+    variables:
+      headline_top: "Little buddy."
+      headline_bottom: "Big adventures!"
+      subtitle: "Feed, brush, dance and play together."
+    assets:
+      app_screenshot: "02-buddy-time.png"
+  03_number_buddies:
+    template: "marketing_iphone_hero.html"
+    variables:
+      headline_top: "Cute pets."
+      headline_bottom: "Happy counting!"
+      subtitle: "Tap, count and learn at your own pace."
+    assets:
+      app_screenshot: "03-number-buddies.png"

@@ -1,0 +1,19 @@
+{
+  "appId": "6835691626",
+  "version": "1.0.1",
+  "versionId": "312afcc1-d50a-4c72-8204-f6a306ff4cfb",
+  "localizationId": "1c9030b5-fc51-4c8a-a4a7-c140907f8162",
+  "state": "PREPARE_FOR_SUBMISSION",
+  "submitted": false,
+  "screenshots": [
+    "47800019-7706-806a-8017-5983e6442794",
+    "ee400019-7706-806a-8037-44a2b51f4268",
+    "35800019-7706-806a-8030-18948faeedea"
+  ],
+  "previewId": "b6400019-7706-806a-8135-164cc5e27eb6",
+  "previewDurationSeconds": 24,
+  "previewResolution": "886x1920",
+  "previewURL": "https://staticfiles.net/wfT_0q2yUVaf2jFDgqweP87TWmI04hkyUR5JdD4sSDw/d/Lgi1NrmqaEs.mp4",
+  "verifiedAssetDeliveryState": "COMPLETE",
+  "notes": "Three new iPhone marketing screenshots and a real-gameplay preview uploaded to the 1.0.1 draft. Existing iPhone and iPad screenshots retained. Live 1.0 is READY_FOR_SALE and unchanged. A new versioned build and review submission are still required to release this update. Video is silent and shows dress-up, Buddy Time and Number Buddies."
+}

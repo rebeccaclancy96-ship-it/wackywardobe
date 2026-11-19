@@ -1,0 +1,14 @@
+project:
+  name: "Wacky Wardrobe"
+  output_dir: "output-duo-outer"
+  device: "iPhone Duo - Night Sky - Outer Closed Portrait"
+  output_size: "iPhoneDuo_Outer"
+screenshots:
+  01_duo_outer:
+    template: "wacky_duo_outer.html"
+    variables:
+      headline_top: "Wacky styles."
+      headline_bottom: "Pocket smiles!"
+      subtitle: "Dress up your buddy, wherever you play."
+    assets:
+      app_screenshot: "duo-outer.png"
